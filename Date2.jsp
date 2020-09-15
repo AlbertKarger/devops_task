@@ -16,6 +16,10 @@ public static String getMyStatment () {
 <font color="red" size="10">
 <%= "Devops final project!" %>
 <br><br>
+
+<font color="blue" size="8">
+<%="By Albert Karger & Elior Nourani"%>
+<br><br>
 <font color="gray" size="5"> 
   The date now is: <%= new java.util.Date() %>
 <br><br>
