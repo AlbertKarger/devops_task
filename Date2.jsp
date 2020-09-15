@@ -18,7 +18,7 @@ public static String getMyStatment () {
 <br><br>
 
 <font color="blue" size="8">
-<%="By Albert Karger & Elior Nourani"%>
+<%="By Albert Karger & Elior Nourani TEST123"%>
 <br><br>
 <font color="gray" size="5"> 
   The date now is: <%= new java.util.Date() %>
